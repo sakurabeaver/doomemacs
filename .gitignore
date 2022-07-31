@@ -1,8 +1,8 @@
 .local/
 .cask/
 var/
-/init.el
-modules/private/
+# /init.el
+# modules/private/
 
 # emacs tempfiles that shouldn't be there
 .mc-lists.el
